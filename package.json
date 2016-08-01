@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js",
     "cover": "istanbul cover _mocha",
     "test": "mocha",
     "seed": "node models/seed.js"
