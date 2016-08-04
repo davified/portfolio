@@ -27,14 +27,26 @@ const projects = [
   {
     project: 'Snake',
     url: 'http://davified.github.io/snake-game/',
-    language: ['Javascript'],
-    screenshot: '#'
+    language: ['Vanilla Javascript'],
+    screenshot: 'http://giphy.com/embed/l46C8KYsBZZVhjVNC'
   },
   {
-    linkType: 'Volunteer App',
+    project: 'Volunteer Now',
     url: 'http://volunteer-now.herokuapp.com/',
     language: ['Ruby', 'Rails'],
-    screenshot: '#'
+    screenshot: 'http://i.imgur.com/STDwHzL.jpg'
+  },
+  {
+    project: 'Readr',
+    url: 'http://volunteer-now.herokuapp.com/',
+    language: ['Node.js', 'Express', 'jQuery'],
+    screenshot: 'http://giphy.com/embed/l3fQoqYotnRJjcNq0'
+  },
+  {
+    project: 'Carparks-SG',
+    url: 'http://volunteer-now.herokuapp.com/',
+    language: ['Node.js', 'Express', 'Leaflet.js'],
+    screenshot: 'http://i.imgur.com/gCMyDPY.jpg'
   }
 ]
 
