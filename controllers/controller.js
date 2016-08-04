@@ -28,25 +28,29 @@ const projects = [
     project: 'Snake',
     url: 'http://davified.github.io/snake-game/',
     language: ['Vanilla Javascript'],
-    screenshot: 'http://giphy.com/embed/l46C8KYsBZZVhjVNC'
+    screenshot: 'http://giphy.com/embed/l46C8KYsBZZVhjVNC',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
   },
   {
     project: 'Volunteer Now',
     url: 'http://volunteer-now.herokuapp.com/',
     language: ['Ruby', 'Rails'],
-    screenshot: 'http://i.imgur.com/STDwHzL.jpg'
+    screenshot: 'http://i.imgur.com/STDwHzL.jpg',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
   },
   {
     project: 'Readr',
     url: 'http://volunteer-now.herokuapp.com/',
     language: ['Node.js', 'Express', 'jQuery'],
-    screenshot: 'http://giphy.com/embed/l3fQoqYotnRJjcNq0'
+    screenshot: 'http://giphy.com/embed/l3fQoqYotnRJjcNq0',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
   },
   {
     project: 'Carparks-SG',
     url: 'http://volunteer-now.herokuapp.com/',
     language: ['Node.js', 'Express', 'Leaflet.js'],
-    screenshot: 'http://i.imgur.com/gCMyDPY.jpg'
+    screenshot: 'http://i.imgur.com/gCMyDPY.jpg',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
   }
 ]
 
