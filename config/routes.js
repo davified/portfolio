@@ -13,7 +13,13 @@ const controller = require('../controllers/controller.js')
 // ROOT
 router.get('/', (req, res) =>{
   res.status(200).json({
-    title: "David Tan"
+    title: "David Tan",
+    profile: '/profile',
+    links: '/links',
+    projects: '/projects',
+    skills: '/skills',
+    education: '/education',
+    work: '/work'
   })
 })
 
